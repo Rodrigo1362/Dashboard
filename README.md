@@ -1,6 +1,6 @@
 # Desafio Power BI - Projeto Prático 🚀
 
-Este repositório foi criado para replicar e aprimorar o desafio prático proposto no curso da [DIO](https://web.dio.me/). A ideia é consolidar os conhecimentos adquiridos ao longo do curso e construir um portfólio de projetos no GitHub, que pode ser um diferencial em entrevistas técnicas. Aproveite para explorar os conceitos e criar relatórios mais elaborados!
+Este repositório foi criado para replicar e aprimorar o desafio prático proposto no curso da [DIO](https://web.dio.me/). A ideia é consolidar os conhecimentos adquiridos ao longo do curso e construir um portfólio de projetos no GitHub.
 
 ---
 
