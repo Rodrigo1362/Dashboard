@@ -6,7 +6,7 @@ Este repositório foi criado para replicar e aprimorar o desafio prático propos
 
 ## Objetivo do Projeto 📊
 
-O desafio consiste em replicar duas páginas de um relatório Power BI, já desenvolvidas durante o curso, utilizando a **sample disponibilizada**. Além disso, será criada uma **terceira página**, contendo os seguintes visuais:
+O desafio consiste em replicar um relatório Power BI, já desenvolvidas durante o curso, utilizando a **sample disponibilizada**. O objetivo é criar um dashboard contendo os seguintes visuais:
 
 1. **Visual Mapa 1**: Soma de vendas (`sales`) e unidades vendidas por país.
 2. **Visual Mapa 2**: Soma de lucro (`profit`) por país.
